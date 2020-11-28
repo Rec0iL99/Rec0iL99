@@ -4,4 +4,4 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joel-mathew-koshy/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/JoelMat99)
-[![Mail](https://img.shields.io/badge/Gmail-black.svg?style=for-the-badge&logo=gmail)](mailto:joelmathewkoshy@karunya.edu.in)
+[![Mail](https://img.shields.io/badge/Gmail-black.svg?style=for-the-badge&logo=gmail)](mailto: joelmathewkoshy@karunya.edu.in)
